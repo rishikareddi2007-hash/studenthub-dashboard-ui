@@ -1,11 +1,40 @@
 
-  # Student Dashboard UI Design (Copy) (Copy)
+  # StudentHub – Student Activity Management Dashboard
 
-  This is a code bundle for Student Dashboard UI Design (Copy) (Copy). The original project is available at https://www.figma.com/design/TsFTDxjIbSDofMrnbZAmXd/Student-Dashboard-UI-Design--Copy---Copy-.
+StudentHub is a centralized platform designed to manage and track student academic and extracurricular activities within Higher Education Institutions.
 
-  ## Running the code
+The platform provides a modern dashboard interface where students can monitor their academic progress, activities, events, and certificates in a single place.
 
-  Run `npm i` to install the dependencies.
+## Features
 
-  Run `npm run dev` to start the development server.
-  
+• Student Dashboard Overview  
+• Activity Tracking System  
+• Event Registration Module  
+• Certificate Management  
+• Academic Records and Progress Tracking  
+• Notifications and Updates Panel  
+
+## Project Overview
+
+This project demonstrates the design and structure of a modern student dashboard system aimed at improving visibility of student achievements and simplifying activity management in educational institutions.
+
+## Tech Setup
+
+Install dependencies:
+## Installation
+
+Install dependencies:
+
+```
+npm install
+```
+
+Start the development server:
+
+```
+npm run dev
+```
+
+## Author
+
+Reddi Rishika
